@@ -1,2 +1,2 @@
 # 481
-Astro 481: Introduction to Observing
+Notebooks to support Astro 481: Introduction to Observing

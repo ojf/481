@@ -3,8 +3,8 @@ Notebooks to support Astro 481: Introduction to Astronomical Observation
 
 Lectures (presented in class using [Rise](https://rise.readthedocs.io/en/stable/installation.html)):
 
-- The PSF and What To Do About It/
-- Aperture_Photometry_and_SNR/
+- The Point Spread Function/
+- Aperture Photometry/
 - Working_with_Light_Curves/
 
 Stand-alone guides:

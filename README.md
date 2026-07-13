@@ -1,10 +1,8 @@
 # 481
 Notebooks to support Astro 481: Introduction to Astronomical Observation
 
-Lectures (presented in class using [Rise](https://rise.readthedocs.io/en/stable/installation.html)):
-
 - The Point Spread Function/
-- Aperture Photometry/
+- The CCD Equation.ipynb
 - Working_with_Light_Curves/
 
 Stand-alone guides:
